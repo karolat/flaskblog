@@ -1,5 +1,6 @@
 #mac
 *.DS_Store
+flaskblog/static/profile_pics
 
 #db
 site.db
